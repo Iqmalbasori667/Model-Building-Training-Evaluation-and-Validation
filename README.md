@@ -1,5 +1,10 @@
 # Model-Building-Training-Evaluation-and-Validation
 
+## Dataset Collection Documentation
+If you want to know about the dataset collection that we previously worked on, you can check our previous GitHub documentation at the link below.
+[Link to Dataset Collection](https://github.com/Iqmalbasori667/Data-Collection-Massive-Project-AAI-Collaboration)
+
+
 ## Overview
 This project aims to develop an AI solution for sustainable waste management through multiclass classification. By implementing deep learning models, specifically VGG16, VGG19, and ResNet50 architectures, the project aims to classify waste materials into six categories: metal, glass, organic, paper, battery, and plastic. The solution can be deployed in Indonesia to assist in efficient waste sorting and management.
 
